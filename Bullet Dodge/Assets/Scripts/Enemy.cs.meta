@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5079cfe84c42824c9003fa1c3d6281c
+timeCreated: 1455891542
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bulletToDown: {fileID: 102210, guid: 9a4baf248836abb4094fb707a528f7e1, type: 2}
+  - bulletToLeft: {fileID: 102300, guid: 9a4baf248836abb4094fb707a528f7e1, type: 2}
+  - bulletToRight: {fileID: 172802, guid: 9a4baf248836abb4094fb707a528f7e1, type: 2}
+  - bulletToUp: {fileID: 179516, guid: 9a4baf248836abb4094fb707a528f7e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
